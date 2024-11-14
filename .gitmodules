@@ -1,9 +1,6 @@
 [submodule "p4/cs537/P4"]
 	path = p4/cs537/P4
 	url = git@github.com:Aiswarya-Kumar99/P4.git
-[submodule "p5"]
-	path = p5
-	url = https://git.doit.wisc.edu/cdis/cs/courses/cs537/fall24/public/p5.git
 [submodule "p5/cs537/p5"]
 	path = p5/cs537/p5
 	url = git@github.com:m0mosenpai/p5.git
