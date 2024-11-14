@@ -10,3 +10,6 @@
 [submodule "p1/p1"]
 	path = p1/p1
 	url = git@github.com:m0mosenpai/p1.git
+[submodule "p2/p2"]
+	path = p2/p2
+	url = git@github.com:m0mosenpai/p2.git
