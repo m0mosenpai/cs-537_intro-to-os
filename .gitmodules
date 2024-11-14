@@ -7,3 +7,6 @@
 [submodule "p5/cs537/p5"]
 	path = p5/cs537/p5
 	url = git@github.com:m0mosenpai/p5.git
+[submodule "p1/p1"]
+	path = p1/p1
+	url = git@github.com:m0mosenpai/p1.git
