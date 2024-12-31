@@ -13,3 +13,6 @@
 [submodule "p3/p3"]
 	path = p3/p3
 	url = git@github.com:m0mosenpai/p3.git
+[submodule "p6/p6"]
+	path = p6/p6
+	url = git@github.com:m0mosenpai/p6.git
